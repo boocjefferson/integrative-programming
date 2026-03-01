@@ -1,0 +1,5 @@
+node_modules/
+venv1/
+.env
+build/
+*.log
